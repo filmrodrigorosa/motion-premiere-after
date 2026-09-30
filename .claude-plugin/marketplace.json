@@ -1,0 +1,11 @@
+{
+  "name": "filmrodrigorosa",
+  "owner": { "name": "Rodrigo Rosa", "url": "https://github.com/filmrodrigorosa" },
+  "plugins": [
+    {
+      "name": "motion-premiere-after",
+      "source": "./",
+      "description": "Motion graphics guiado pela transcrição: sugere, anima no After Effects e monta no Premiere."
+    }
+  ]
+}

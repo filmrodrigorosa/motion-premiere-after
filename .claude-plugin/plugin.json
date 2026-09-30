@@ -1,0 +1,9 @@
+{
+  "name": "motion-premiere-after",
+  "version": "1.0.0",
+  "description": "Motion graphics de ponta a ponta: Premiere → After Effects → Premiere, guiado pela transcrição, na identidade visual da sua referência, com zoom suave e SFX.",
+  "author": { "name": "Rodrigo Rosa", "url": "https://github.com/filmrodrigorosa" },
+  "homepage": "https://github.com/filmrodrigorosa/motion-premiere-after",
+  "license": "MIT",
+  "keywords": ["premiere-pro", "after-effects", "motion-graphics", "video", "youtube"]
+}
